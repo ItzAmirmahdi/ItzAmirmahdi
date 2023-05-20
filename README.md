@@ -1,6 +1,6 @@
 # Hey there 👋
 ### Welcome! 🇮🇷
-I'm Amirmahdi. A Full-Stack Web Developer. 😊
+53 6F 6D 65 74 69 6D 65 73 20 64 65 61 74 68 20 69 73 20 74 68 65 20 6F 6E 6C 79 20 63 75 72 65 2E 😊🖤
 - Activity 🔥
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ItzAmirmahdi&theme=highcontrast&border_radius=5.5)](https://git.io/streak-stats)
